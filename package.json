@@ -1,0 +1,22 @@
+{
+  "name": "cloud-admin",
+  "version": "1.0.0",
+  "description": "General usage AWS Cloud admin scripts for various tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QbDVision-Inc/cloud-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QbDVision-Inc/cloud-admin/issues"
+  },
+  "homepage": "https://github.com/QbDVision-Inc/cloud-admin#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1592.0"
+  }
+}
